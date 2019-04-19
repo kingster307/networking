@@ -1,0 +1,12 @@
+E:\Comp_org\Stack_Project\Stack_Project\bin\Debug\Stack_Project.exe.config
+E:\Comp_org\Stack_Project\Stack_Project\bin\Debug\Stack_Project.exe
+E:\Comp_org\Stack_Project\Stack_Project\bin\Debug\Stack_Project.pdb
+E:\Comp_org\Stack_Project\Stack_Project\obj\Debug\Stack_Project.csprojResolveAssemblyReference.cache
+E:\Comp_org\Stack_Project\Stack_Project\obj\Debug\Stack_Project.exe
+E:\Comp_org\Stack_Project\Stack_Project\obj\Debug\Stack_Project.pdb
+D:\Comp_org\Stack_Project\Stack_Project\bin\Debug\Stack_Project.exe.config
+D:\Comp_org\Stack_Project\Stack_Project\obj\Debug\Stack_Project.exe
+D:\Comp_org\Stack_Project\Stack_Project\obj\Debug\Stack_Project.pdb
+D:\Comp_org\Stack_Project\Stack_Project\bin\Debug\Stack_Project.exe
+D:\Comp_org\Stack_Project\Stack_Project\bin\Debug\Stack_Project.pdb
+D:\Comp_org\Stack_Project\Stack_Project\obj\Debug\Stack_Project.csprojResolveAssemblyReference.cache
